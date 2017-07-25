@@ -4,7 +4,7 @@ import pygame
 from tkinter import *
 
 root = Tk()
-root.minsize(400, 400)
+root.minsize(350, 350)
 
 listOfSongs = []
 index = 0
